@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "acenda"
 version = "0.1.0"
-description = "accenda python sdk"
+description = "acenda python sdk"
 authors = ["nicksherron <nsherron90@gmail.com>"]
 
+repository = "https://github.com/nicksherron/acenda-python-sdk"
 [tool.poetry.dependencies]
 python = "^3.6"
 
